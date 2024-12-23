@@ -21,4 +21,4 @@ Images with color shifts (X) processed through deep learning are trained to matc
 ![OriginalFHD](https://github.com/suk1998/ML_Color_Learning/blob/master/original_jpeg70.jpg
 
 ## Color Shifted Image after AI Upscaling
-
+![Color_shifted_after_Upscaling](https://github.com/suk1998/ML_Color_Learning/blob/master/SR_jpeg70.jpg)
