@@ -11,3 +11,8 @@ then transformed device-dependent RGB values into device-independent XYZ values.
 images processed through the AI upscaling model. I used the resulting weights as a lookup table to apply real-time color correction to the AI upscaled video affected by color shifts. 
 However, the learning through machine learning didn't perfectly reproduce the original colors; instead, it reproduced intermediate colors between the color-shifted upscaled model and the original. 
 I realized that this aspect warrants further research.
+
+put data FHD source as y
+data resized_modiSCUNET_realFHD_data as X
+
+Images with color shifts (X) processed through deep learning are trained to match the original colors (y).
