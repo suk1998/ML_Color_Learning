@@ -22,3 +22,6 @@ Images with color shifts (X) processed through deep learning are trained to matc
 
 ## Color Shifted Image after AI Upscaling
 ![Color_shifted_after_Upscaling](https://github.com/suk1998/ML_Color_Learning/blob/master/SR_jpeg70.jpg)
+
+## Color Corrected Image after Randomforest Regressor
+![Color_corrected_After_ML](https://github.com/suk1998/ML_Color_Learning/blob/master/randomforest_jpeg70.jpg)
