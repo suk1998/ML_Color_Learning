@@ -18,7 +18,7 @@ data resized_modiSCUNET_realFHD_data as X
 Images with color shifts (X) processed through deep learning are trained to match the original colors (y).
 
 ## Original FHD Image
-![OriginalFHD](https://github.com/suk1998/ML_Color_Learning/blob/master/original_jpeg70.jpg
+![OriginalFHD](https://github.com/suk1998/ML_Color_Learning/blob/master/original_jpeg70.jpg)
 
 ## Color Shifted Image after AI Upscaling
 ![Color_shifted_after_Upscaling](https://github.com/suk1998/ML_Color_Learning/blob/master/SR_jpeg70.jpg)
